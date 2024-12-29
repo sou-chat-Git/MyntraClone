@@ -1,0 +1,39 @@
+.flex{
+    display: flex;
+}
+.container{
+    padding: 0 2vw;
+    margin:auto;
+}
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.semibold{
+    font-weight: bolder;
+}
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.my-2{
+    margin-top:200px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.my-button{
+    margin-left: 150px;
+}
+.my-input{
+    margin: auto;
+}
